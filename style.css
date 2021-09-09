@@ -1,0 +1,64 @@
+body{
+  background-image: url(../materiale/background.jpg);
+  background-size: cover;
+}
+.corpo{
+  width: 800px;
+  margin: auto;
+  font-family: 'Poppins', sans-serif;
+  font-size: 13px;
+}
+header{
+  text-align: center;
+}
+#logo{
+  max-width: 20%;
+}
+*.intestazione{
+  color: #00FF00;
+}
+nav{
+  text-align:center;
+   background-color: #00FF00;
+   padding: 6px;
+   margin-left: 23px;
+   margin-right: 98px;
+}
+main{
+  color: white;
+
+}
+#corso{
+  list-style-type: square;
+  font-size: 20px;
+}
+#via{
+  list-style-type: georgian;
+}
+span{
+margin-left: 25px;
+}
+.barra{
+  background-color: orange;
+  border: 1px black;
+  padding: 10px;
+  margin: 0px;
+  margin-right: 450px;
+  margin-left: 25px;
+}
+.barra2{
+  background-color: #00FF00;
+  border: 1px black;
+  padding: 10px;
+  margin: 0px;
+  margin-right: 300px;
+  margin-left: 25px;
+}
+.barra3{
+  background-color: red;
+  border: 1px black;
+  padding: 10px;
+  margin: 0px;
+  margin-right: 600px;
+  margin-left: 25px;
+}
